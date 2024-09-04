@@ -1,0 +1,3 @@
+A resolução necessita da ideia que são lâmpadas que esquentam com o passar do uso. Assim, para resolver o problema, é necessário que acenda uma primeira lâmpada, espere um tempo e desligue ela. Depois, acende outra e vai em uma das salas checar. Se estiver desligada e fria, é o terceiro interruptor, se estiver desligada e quente, é o primeiro e, se estiver ligada, é o segundo. Assim, vai em outra sala e faz a mesma verificação, a sala que sobrar é do interruptor que sobrou também.
+
+Sem a premissa da lâmpada esquentar, é impossível solucionar o problema de forma garantida, dependerá da sorte de acender uma das lâmpadas e entrar na sala que está acesa, ou ligar duas e entrar na que está desligada.
